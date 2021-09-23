@@ -2,7 +2,7 @@
 
 # Enable local file links
 
-Google Chrome disables links to local files (file://).
+Chromium browsers disable links to local files (file://).
 This extension enables you to open those links.
 
 <img src="chrome-store/screenshot.png" width="640px;">
